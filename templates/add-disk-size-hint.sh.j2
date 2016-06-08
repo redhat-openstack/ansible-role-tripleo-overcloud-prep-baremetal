@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Script to rerun introspection after setting disk hints
+
+set -eux
+
+# get nodes UUID
+source {{ working_dir }}/stackrc
+export items=$( ironic node-list | grep 'power' |  awk '{print $2}' )
+
+# find disk size from instackenv.json
+export DISK_SIZE=$( cat instackenv.json | grep '"disk": ' |  awk '{print $2}' | sed s/\"//g | sed s/\,// )
+
+# update nodes with disk size hint
+count=0
+for item in $items; do
+    if  [ {{ disk_root_device_size | int }} -ge $DISK_SIZE[count]  ]; then
+        ironic node-update item add properties/root_device='{"size": $DISK_SIZE[count]}'
+    fi
+    count=$((count+1))
+done
+
+# rerun introspection
+openstack baremetal introspection bulk start
