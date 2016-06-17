@@ -1,0 +1,8 @@
+Code-Review+1: Harry Rybacki <hrybacki@gmail.com>
+Code-Review+2: Ronelle Landy <rlandy@redhat.com>
+Verified+1: Ronelle Landy <rlandy@redhat.com>
+Submitted-by: Ronelle Landy <rlandy@redhat.com>
+Submitted-at: Fri, 17 Jun 2016 09:05:24 -0400
+Reviewed-on: https://review.gerrithub.io/279570
+Project: redhat-openstack/ansible-role-tripleo-baremetal-overcloud
+Branch: refs/heads/master
