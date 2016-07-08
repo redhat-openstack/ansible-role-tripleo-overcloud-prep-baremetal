@@ -1,0 +1,15 @@
+- when: mtu is defined
+  block:
+
+    - name: Adjust interface mtus
+      become: yes
+      shell: >
+        ip link set {{ item }} mtu 1350
+      with_items:  "{{ mtu_interface }}"
+
+    - name: Modify dnsmasq-ironic.conf
+      become: yes
+      shell: >
+        echo -e "\ndhcp-option-force=26,1350" >> /etc/dnsmasq-ironic.conf;
+        systemctl restart 'neutron-*'
+
