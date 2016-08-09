@@ -1,2 +1,2 @@
 .eggs/
-ansible_role_tripleo_baremetal_overcloud.egg-info/
+ansible_role_tripleo_overcloud_prep_baremetal.egg-info/
