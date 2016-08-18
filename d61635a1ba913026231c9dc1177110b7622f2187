@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_554766bc",
+        "filename": "doc/baremetal-overcloud-workflow.rst",
+        "patchSetId": 7
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T15:32:11Z",
+      "side": 1,
+      "message": "remove leading whitespace",
+      "revId": "d61635a1ba913026231c9dc1177110b7622f2187",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_3544e2b5",
+        "filename": "doc/baremetal-overcloud-workflow.rst",
+        "patchSetId": 7
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T15:32:11Z",
+      "side": 1,
+      "message": "remove leading whitespace",
+      "revId": "d61635a1ba913026231c9dc1177110b7622f2187",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_1510beaa",
+        "filename": "doc/baremetal-overcloud-workflow.rst",
+        "patchSetId": 7
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T15:32:11Z",
+      "side": 1,
+      "message": "remove leading whitespace",
+      "revId": "d61635a1ba913026231c9dc1177110b7622f2187",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
