@@ -1,0 +1,208 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_b570f2a5",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "add newline between unorderd list and regular descriptor above",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_95660eed",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "add newline between unorderd list and regular descriptor above",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_b5591238",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "I\u0027m assuming this is a \u0027third tier\u0027 title. e.g. first is:\n-----\nfirst\n-----\n\nsecond is:\n######\nsecond\n######\n\nthird tier should be:\nthird\n^^^^^",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_355d0216",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "s/example::/example:/",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_d5a256fc",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "add a \u0027\\n::\\n\u0027 if you want the following segment to be formatted as a \u0027code block\u0027",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_753caabf",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "same as above, s/---/^^^/",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_154b1e61",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "same as above, s/---/^^^/",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_55b7663a",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "s/example::/example:/",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_1580be48",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "add a \u0027\\n::\\n\u0027 if you want the following segment to be formatted as a \u0027code block\u0027",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_f5843a5e",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "s/..note:/.. note::/",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_9594ce8c",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 164,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "s/example::/example:/",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_b57eb268",
+        "filename": "templates/baremetal-overcloud-workflow.rst.j2",
+        "patchSetId": 2
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:01:46Z",
+      "side": 1,
+      "message": "add a \u0027\\n::\\n\u0027 if you want the following segment to be formatted as a \u0027code block\u0027",
+      "revId": "f0c590aaa8e6721b22fa3d635c9329808ffc7c82",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
