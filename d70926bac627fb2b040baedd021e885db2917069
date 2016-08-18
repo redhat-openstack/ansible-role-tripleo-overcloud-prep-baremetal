@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_556ac682",
+        "filename": "doc/baremetal-overcloud-workflow.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:39:56Z",
+      "side": 1,
+      "message": "newline after or it will not format correctly",
+      "revId": "d70926bac627fb2b040baedd021e885db2917069",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_356742b9",
+        "filename": "doc/baremetal-overcloud-workflow.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:39:56Z",
+      "side": 1,
+      "message": "one too many \u0027^\u0027",
+      "revId": "d70926bac627fb2b040baedd021e885db2917069",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_15031ec0",
+        "filename": "doc/baremetal-overcloud-workflow.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:39:56Z",
+      "side": 1,
+      "message": "newline after or it will not format correctly",
+      "revId": "d70926bac627fb2b040baedd021e885db2917069",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_f5079ac7",
+        "filename": "doc/baremetal-overcloud-workflow.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 1006607
+      },
+      "writtenOn": "2016-08-18T14:39:56Z",
+      "side": 1,
+      "message": "newline after or it will not format correctly",
+      "revId": "d70926bac627fb2b040baedd021e885db2917069",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
